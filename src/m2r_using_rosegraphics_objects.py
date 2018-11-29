@@ -56,7 +56,8 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #
 #     g. When is a RoseWindow close_on_mouse_click method call
 #        necessary?  Why?
-#           if its not there then the window will disappear as soon as the code is finished running
+#          always when code is done: if its not there then the window will disappear as soon as the code is finished
+# running
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
