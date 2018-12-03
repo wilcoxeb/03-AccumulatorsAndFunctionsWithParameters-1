@@ -47,6 +47,7 @@ def run_test_sum_powers():
     print('expected:', expected)
     print('actual  :', answer)
 
+
 def sum_powers(n, p):
     """
     What comes in:  A non-negative integer n
@@ -105,6 +106,7 @@ def run_test_sum_powers_in_range():
     answer = sum_powers_in_range(2, 90, .25)
     print('Expected:', expected)
     print('Actual:  ', answer)
+
 
 def sum_powers_in_range(m, n, p):
     """
